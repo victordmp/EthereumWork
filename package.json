@@ -1,0 +1,23 @@
+{
+  "name": "ethereumwork",
+  "version": "1.0.0",
+  "description": "Alunos: - Emica Oliveira da Costa - Victor Daniel Manfrini Pires",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victordmp/EthereumWork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victordmp/EthereumWork/issues"
+  },
+  "homepage": "https://github.com/victordmp/EthereumWork#readme"
+}
