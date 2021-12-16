@@ -176,7 +176,7 @@ contract TaskManager {
     /* 
         Função que atualiza a o nome do projeto
     */
-    function updateName(uint _taskIndex, string _name) public onlyOwner(_taskIndex) {
+    function updateName(uint _taskIndex, string memory _name) public onlyOwner(_taskIndex) {
         tasks[_taskIndex].name = _name;
     }
 }
